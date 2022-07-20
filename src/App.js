@@ -9,7 +9,10 @@ function App() {
         title="WorkOut"
         moreabout="Legs workout – Leg Extensions – target 4 sets of 10 reps"
       />
-      <Todo title="Meeting" moreabout="12:00 AM - 1:00 PM Interview & Meeting " />
+      <Todo
+        title="Meeting"
+        moreabout="12:00 AM - 1:00 PM Interview & Meeting "
+      />
       <Todo title="Check email" moreabout=" Check my work Emails" />
       <Todo
         title="Studing"
